@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Core Data
 //
-//  Created by Silicon Orchard Ltd on 3/3/17.
-//  Copyright © 2017 Silicon Orchard Ltd. All rights reserved.
+//  Created by Nahin Ahmed Ltd on 3/3/17.
+//  Copyright © 2017 Nahin Ahmed. All rights reserved.
 //
 
 import UIKit
